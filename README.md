@@ -228,10 +228,9 @@ olist-ecommerce-business-intelligence/
 
 ---
 
-## Author
+### Project Highlights
 
-**Shrid Jha**
-
-LinkedIn: *(Add your LinkedIn)*
-
-GitHub: *(Add your GitHub Profile)*
+- Analyzed 99K+ e-commerce orders using Excel, SQL, and Power BI.
+- Queried data across 8 relational tables to derive business insights.
+- Built 6 interactive dashboards featuring 25+ KPIs and visualizations.
+- Delivered business recommendations for sales, logistics, customer, seller, and payment analytics.
